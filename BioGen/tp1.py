@@ -74,7 +74,7 @@ def protein():
             break
         protein_seq += amino_acid
 
-    print("Protein sequence:", protein_seq)
+    print("Protein sequence:", protein_seq)  
 
 # Run the function
 protein()
