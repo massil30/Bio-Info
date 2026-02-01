@@ -1,0 +1,15 @@
+cd "c:\Users\windows\Desktop\BioInfo\DNA_Sequence_Analyzer\app" ; python -m http.server 8000
+
+
+
+
+# Sequence Comlipentaire
+A <=> T
+C <=> G
+## Reverse Comlipentaire ()
+    - 
+
+# Substituion (Remplacer)
+    # Transition (Meme type de base)
+    A <->G C <-> T
+    # TransVersion (!type de base)
